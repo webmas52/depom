@@ -13,3 +13,4 @@ A simple WordPress theme inspired by modern dating applications. It is mobile-fi
 - Responsive design for mobile and desktop
 - Minimal layout using standard WordPress loops
 - Easy to extend with your own styles and templates
+- Posts on the home page appear in a profile grid layout
